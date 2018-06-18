@@ -1,5 +1,12 @@
 # Material Recognition with Caffe
 
+![Preview](https://user-images.githubusercontent.com/6814254/41545129-bdf49144-731a-11e8-9a6b-78cb0c5f16a1.png)
+
+## Model Performance
+
+<img alt='Model Performance' src="https://user-images.githubusercontent.com/6814254/41497694-9f057fd0-715a-11e8-98ca-81897ea568a8.png" width="500" />
+
+
 ## Installation
 
 ```bash
